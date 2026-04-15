@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi , I'm Asmaa  
 
-<!--
-**Asmaa626/Asmaa626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Communication Engineering Student  
+ Passionate about IoT, Cloud & DevOps  
+ Building Smart Systems using AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills  
+- IoT Systems & Smart Applications  
+- Firebase (Realtime Database)  
+- Cloud & DevOps (Basics)  
+- C / C++ / Python  
+
+---
+
+##  Contact Me  
+- Email:  asmaa.sarhan.200@gmail.com
+- LinkedIn: https://www.linkedin.com/in/asmaa-khalid-b73079331? 
+
+---
+
+ Always learning & improving in Cloud, DevOps & Smart Technologies
